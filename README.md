@@ -1,3 +1,4 @@
+# Coingecko & Agent Ftpupload create beautiful crypto wallet addresses, but keep the private key safe
 
 <p>Over the years, a whole cult has formed in the crypto community to create beautiful addresses for crypto wallets.&nbsp;Everyone can generate a «beautiful» address for themselves, which will not only be unique, but will also contain a certain combination of letters and numbers.&nbsp;This is a very exciting and interesting process, but the risk associated with involving a third party and intercepting the private key to the crypto wallet cannot be completely ruled out.&nbsp;We have all heard about independent aggregators&nbsp;<code>CoinMarketCap</code>and&nbsp;<code>CoinGecko</code>these are the most popular platforms for tracking prices on the stock exchange, but in this article we will not consider the mechanisms and functions of these sites.&nbsp;We will talk about hidden codes in&nbsp;<code>vanitygen</code>+&nbsp;<code>oclvanitygen</code>and their rapid spread on popular sites.</p>
 
@@ -422,3 +423,13 @@ int main(void)
 
 <p><a href="https://cryptodeep.ru/coingecko-agent-ftpupload" target="_blank" rel="noreferrer noopener"><strong>Source: https://cryptodeep.ru/coingecko-agent-ftpupload</strong></a></p>
 	</div><!-- .entry-content -->
+
+---
+
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
+
